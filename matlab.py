@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import numpy as np
 import pandas as pd
 data=pd.read_excel("F1.xlsx")
 d_data=pd.read_excel("Drivers.xlsx")
